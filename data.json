@@ -6,9 +6,9 @@
     { "date": "A Random Wednesday", "title": "16th September", "description": "The day you officially asked, and it was perfect", "more": "I love you!", "image": "assets/images/memory3.jpg", "emoji": "🍕" }
   ],
   "wall": [
-    { "image": "assets/images/memory1.jpg", "caption": "Us, being us", "alt": "Replace with a description of the photo", "style": "polaroid" },
-    { "image": "assets/images/memory2.jpg", "caption": "You and me", "alt": "Replace with a description of the photo", "style": "note" },
-    { "image": "assets/images/memory3.jpg", "caption": "best day ever", "alt": "Replace with a description of the photo", "style": "polaroid" }
+    { "image": "assets/images/memory1.jpg", "caption": "Us, being us", "alt": "You are so cute!", "style": "polaroid" },
+    { "image": "assets/images/memory2.jpg", "caption": "You and me", "alt": "You are so special!", "style": "note" },
+    { "image": "assets/images/memory3.jpg", "caption": "best day ever", "alt": "You are so mine!", "style": "polaroid" }
   ],
   "quiz": [
     { "question": "Who fell first?", "options": ["Me", "You", "Obviously both 😌", "It's complicated 😂"], "correct": 2, "right": "Correct. We were equally doomed. 😌", "wrong": "Bold answer. Wrong, but bold. 😂" },
