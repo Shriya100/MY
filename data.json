@@ -1,0 +1,50 @@
+{
+  "site": { "name": "Our Little Universe", "subtitle": "A tiny corner of the internet that belongs to us.", "herSName": "you", "musicFile": "assets/music/song.mp3" },
+  "memories": [
+    { "date": "The Beginning", "title": "The day everything changed", "description": "Short teaser shown on the card.", "more": "Write the longer version of this memory here. Where you were, what you said, what you remember most.", "image": "assets/images/memory1.jpg", "emoji": "💫" },
+    { "date": "First Adventure", "title": "The trip we still talk about", "description": "Short teaser shown on the card.", "more": "The longer story goes here.", "image": "assets/images/memory2.jpg", "emoji": "🌊" },
+    { "date": "A Random Tuesday", "title": "Nothing happened, and it was perfect", "description": "Short teaser shown on the card.", "more": "The longer story goes here.", "image": "assets/images/memory3.jpg", "emoji": "🍕" }
+  ],
+  "wall": [
+    { "image": "assets/images/memory1.jpg", "caption": "Us, being us", "alt": "Replace with a description of the photo", "style": "polaroid" },
+    { "image": "assets/images/memory2.jpg", "caption": "that one trip", "alt": "Replace with a description of the photo", "style": "note" },
+    { "image": "assets/images/memory3.jpg", "caption": "best day ever", "alt": "Replace with a description of the photo", "style": "polaroid" }
+  ],
+  "quiz": [
+    { "question": "Who fell first?", "options": ["Me", "You", "Obviously both 😌", "It's complicated 😂"], "correct": 2, "right": "Correct. We were equally doomed. 😌", "wrong": "Bold answer. Wrong, but bold. 😂" },
+    { "question": "Where was our first date?", "options": ["Cafe", "Beach", "Movies", "Replace me"], "correct": 0, "right": "You remember. I'm blushing. 🥹", "wrong": "Ouch. This is going in the lore. 📖" },
+    { "question": "What do I always order?", "options": ["Pizza", "Pasta", "Fries", "Replace me"], "correct": 0, "right": "Menu knowledge: elite. 🍕", "wrong": "Suspicious. Very suspicious. 👀" }
+  ],
+  "quizResults": [
+    { "min": 0, "text": "Looks like someone needs to pay more attention to our lore 😂" },
+    { "min": 0.5, "text": "Not bad! You know most of it. We'll work on the rest. 😉" },
+    { "min": 1, "text": "Okay... you actually remember everything. I'm impressed. ❤️" }
+  ],
+  "compliments": [
+    "You make ordinary days feel special.",
+    "You have no idea how often you make me smile.",
+    "You're one of my favorite parts of life.",
+    "Somehow, you make everything more fun.",
+    "I'm a better version of myself around you."
+  ],
+  "jokes": [
+    "Probability that I'm right: 100%. Probability that you'll agree: currently under investigation.",
+    "Scientific fact: 87% of our arguments end with snacks.",
+    "Study finds you steal the blanket. Study was conducted at 3 a.m.",
+    "Our inside joke here. Replace me!",
+    "Time spent deciding where to eat: 4 hours. Time spent eating: 12 minutes."
+  ],
+  "thisOrThat": [
+    { "a": "Beach date 🌊", "b": "Movie night 🎬", "wordA": "a beach", "wordB": "a movie night" },
+    { "a": "Sunrise 🌅", "b": "Sunset 🌇", "wordA": "a sunrise", "wordB": "a sunset" },
+    { "a": "Hug 🤗", "b": "Kiss ❤️", "wordA": "lots of hugs", "wordB": "plenty of kisses" },
+    { "a": "Pizza 🍕", "b": "Burgers 🍔", "wordA": "pizza", "wordB": "burgers" },
+    { "a": "Long drive 🚗", "b": "Cozy room 🛋️", "wordA": "a long drive", "wordB": "a cozy room" }
+  ],
+  "secret": { "button": "Don't click this 👀", "lines": ["Okay fine...", "I just wanted an excuse to tell you...", "I love you. ❤️"] },
+  "loveLetter": {
+    "title": "A Letter I Couldn't Say Out Loud",
+    "content": "Dear you,\n\nI'm not great at saying this out loud, so I'm writing it down.\n\nThank you for the quiet days, the loud ones, and every ordinary moment you made feel like something worth keeping.\n\nReplace this letter with your own words. Keep it true, keep it simple.\n\nYours, always."
+  },
+  "final": { "title": "To be continued...", "text": "Because our favorite memories haven't happened yet. ❤️", "footer": "Made with way too much love ❤️" }
+}
