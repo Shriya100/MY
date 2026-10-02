@@ -1,9 +1,9 @@
 {
   "site": { "name": "Our Little Universe", "subtitle": "A tiny corner of the internet that belongs to us.", "herSName": "you", "musicFile": "assets/music/song.mp3" },
   "memories": [
-    { "date": "The Beginning", "title": "The day everything changed", "description": "Short teaser shown on the card.", "more": "Write the longer version of this memory here. Where you were, what you said, what you remember most.", "image": "assets/images/memory1.jpg", "emoji": "💫" },
-    { "date": "First Adventure", "title": "The trip we still talk about", "description": "Short teaser shown on the card.", "more": "The longer story goes here.", "image": "assets/images/memory2.jpg", "emoji": "🌊" },
-    { "date": "A Random Tuesday", "title": "Nothing happened, and it was perfect", "description": "Short teaser shown on the card.", "more": "The longer story goes here.", "image": "assets/images/memory3.jpg", "emoji": "🍕" }
+    { "date": "The Beginning", "title": "10th June", "description": "The day everything changed", "more": "The day we confessed", "image": "assets/images/memory1.jpg", "emoji": "💫" },
+    { "date": "The it day", "title": "19th July", "description": "The day you became mine", "more": "Yours Endlessly", "image": "assets/images/memory2.jpg", "emoji": "🌊" },
+    { "date": "A Random Wednesday", "title": "16th September", "description": "The day you officially asked, and it was perfect", "more": "I love you!", "image": "assets/images/memory3.jpg", "emoji": "🍕" }
   ],
   "wall": [
     { "image": "assets/images/memory1.jpg", "caption": "Us, being us", "alt": "Replace with a description of the photo", "style": "polaroid" },
@@ -44,7 +44,7 @@
   "secret": { "button": "Don't click this 👀", "lines": ["Okay fine...", "I just wanted an excuse to tell you...", "I love you. ❤️"] },
   "loveLetter": {
     "title": "A Letter I Couldn't Say Out Loud",
-    "content": "Dear you,\n\nI'm not great at saying this out loud, so I'm writing it down.\n\nThank you for the quiet days, the loud ones, and every ordinary moment you made feel like something worth keeping.\n\nReplace this letter with your own words. Keep it true, keep it simple.\n\nYours, always."
+    "content": "Dear you,\n\nI'm not great at saying this out loud, so I'm writing it down.\n\nThank you for the quiet days, the loud ones, and every ordinary moment you made feel like something worth keeping.\n\nYou make the small stuff feel like the whole point. Thank you for the patience, the bad jokes, and the way you show up without being asked. I'd choose you on every version of this day..\n\nYours, always."
   },
   "final": { "title": "To be continued...", "text": "Because our favorite memories haven't happened yet. ❤️", "footer": "Made with way too much love ❤️" }
 }
