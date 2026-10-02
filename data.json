@@ -7,7 +7,7 @@
   ],
   "wall": [
     { "image": "assets/images/memory1.jpg", "caption": "Us, being us", "alt": "Replace with a description of the photo", "style": "polaroid" },
-    { "image": "assets/images/memory2.jpg", "caption": "that one trip", "alt": "Replace with a description of the photo", "style": "note" },
+    { "image": "assets/images/memory2.jpg", "caption": "You and me", "alt": "Replace with a description of the photo", "style": "note" },
     { "image": "assets/images/memory3.jpg", "caption": "best day ever", "alt": "Replace with a description of the photo", "style": "polaroid" }
   ],
   "quiz": [
